@@ -5,7 +5,7 @@
 Me chamo Polyana, moro em Osvaldo Cruz - SP e atualmente curso o 3º do Ensino Médio juntamente com o curso Técnico em Desenvolvimento de Sistemas. Sou iniciante na programação, sempre me aprimorando, me dedicando e adquirindo novos conhecimentos.
 
 ### Tecnologias e Ferramentas
-
+<div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="70" height="70" />
 
 
@@ -52,6 +52,7 @@ Me chamo Polyana, moro em Osvaldo Cruz - SP e atualmente curso o 3º do Ensino M
 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="70" height="70"/>
+</div>
 
 ## Contatos:
 
