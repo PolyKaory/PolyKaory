@@ -67,4 +67,4 @@ Me chamo Polyana, moro em Osvaldo Cruz - SP e atualmente curso o 3º do Ensino M
 </div>
   
 
-![Snake animation](https://github.com/PolyKaory/PolyKaory/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/PolyKaory/PolyKaory/blob/output/github-contribution-grid-snake.svg)
