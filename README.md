@@ -62,7 +62,8 @@ Me chamo Polyana, moro em Osvaldo Cruz - SP e atualmente curso o 3º do Ensino M
 <div>
 <a href="https://github.com/PolyKaory">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polykaory&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=PolyKaory&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>     
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=polykaory&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+  
 
 ![Snake animation](https://github.com/PolyKaory/PolyKaory/blob/output/github-contribution-grid-snake.svg)
